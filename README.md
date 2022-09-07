@@ -1,5 +1,5 @@
 # WorldSim - college project
-Board game
+Board game of unique organisms living in simulated 2D world
 
 # Tech stack
 - Java
